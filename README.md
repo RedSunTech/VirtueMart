@@ -1,4 +1,4 @@
-#紅陽金流 VirtueMart
+#紅陽科技 VirtueMart 金流模組 
 
 信用卡（含分期付款，可超商取貨）
 
